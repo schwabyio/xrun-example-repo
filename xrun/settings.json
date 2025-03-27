@@ -1,0 +1,6 @@
+{
+    "environmentType": "test",
+    "limitConcurrency": 10,
+    "autoOpenTestResultHtml": true,
+    "projectName": "xrun-example"
+  }

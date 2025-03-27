@@ -1,0 +1,9 @@
+[
+    ".npm",
+    ".git",
+    ".vscode",
+    "resources",
+    "xml",
+    "bad-url",
+    "script-failure"
+]
